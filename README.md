@@ -3,4 +3,11 @@
 <br>
 <br>
 <br>
-<p> <a href="https://pedrosantosgithub.github.io/projeto-login/index.html"> Projeto Tela de login</a> </p>
+
+<ul>
+<li> <p> <a href="https://pedrosantosgithub.github.io/projeto-login/index.html"> Projeto Tela de login</a> </p> </li>
+</ul>
+<br>
+<br>
+<br>
+<p> O projeto é totalmente funcional e adaptavel em todos os dispositivos ( Celular, Tablet, TV ) </p>
