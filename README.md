@@ -5,7 +5,7 @@
 <br>
 
 <ul>
-<li> <p> <a href="https://pedrosantosgithub.github.io/projeto-login/index.html"> Projeto Tela de login</a> </p> </li>
+<li> <p> <a href="https://pedrosantosgithub.github.io/projeto-login/index.html"> Projeto Tela de Login</a> </p> </li>
 </ul>
 <br>
 <br>
